@@ -1,5 +1,5 @@
 # Ex02 Django ORM Web Application
-## Date: 10.10.2026
+## Date: 12.10.2026
 
 ## AIM
 To develop a Django Application to store and retrieve data from a Vehicle Service Database platform using Object Relational Mapping(ORM).
@@ -60,7 +60,8 @@ class customerAdmin(admin.ModelAdmin):
 
 
 ## OUTPUT
-![alt text](<Screenshot 2026-10-10 155753.png>)
+![alt text](<Screenshot (8).png>)
+
 
 
 
